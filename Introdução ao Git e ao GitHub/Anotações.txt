@@ -1,0 +1,54 @@
+## Comandos Básicos do prompt/Terminal de comando.
+
+dir - Comando para listar todas as pastas do local onde estamos.
+
+cd - possibilita que navegue entre as pastas.
+
+OBS: para navegar entre as pastas, preciso usar o comando "cd" + "o nome da pasta que eu quero ser direcionado", se eu usar "cd .." eu volto automaticamente para a pasta/diretório anterior ao qual eu havia entrado.
+
+cls - comando para limpar o terminal windows (fuciona apenas no prompt de comando).
+
+TAB - A tecla TAB completa automaticamente o restante da escrita que eu iniciei.
+
+mkdir - Cria uma pasta direto do prompt.
+
+echo - Printa de volta no terminal uma frase na qual eu digitei ( se eu usar a função "echo" e adicionar o símbolo ">" faz com que a frase que eu use seja direcionado a algum arquivo, podendo criar um arquivo de texto usando por exemplo o comando "echo hello > hello.txt"
+
+del - deleta um arquivo ou arquivos dentro de uma pasta
+
+rmdir - deleta de forma definitiva um repositório/pasta ( Exemplo de comando para deletar repositório: "rmdir workspace /S /Q"
+
+---------------------------------------------------------------------------------------------------------------
+
+## Comandos Básicos do Git/GitHub
+
+OBS: quando queremos usar o git pelo terminal, devemos sempre colocar o nome do programa primeiro, por isso todo comando do git, deve-se iniciar com a palavra "git" na frente e o comando do git logo após.
+
+cd - possibilita que navegue entre as pastas.
+
+ls - Comando para listar todas as pastas do local onde estamos.
+
+OBS: para navegar entre as pastas, preciso usar o comando "cd" + "o nome da pasta que eu quero ser direcionado", se eu usar "cd .." eu volto automaticamente para a pasta/diretório anterior ao qual eu havia entrado.
+
+clear ou "CTRL + L" - comando para limpar o terminal windows (fuciona apenas no prompt de comando).
+
+TAB - A tecla TAB completa automaticamente o restante da escrita que eu iniciei.
+
+mkdir - Cria uma pasta direto do prompt.
+
+echo - Printa de volta no terminal uma frase na qual eu digitei ( se eu usar a função "echo" e adicionar o símbolo ">" faz com que a frase que eu use seja direcionado a algum arquivo, podendo criar um arquivo de texto usando por exemplo o comando "echo hello > hello.txt"
+
+rm - deleta um arquivo ou arquivos dentro de uma pasta
+
+rm -rf - deleta de forma definitiva um repositório/pasta ( Exemplo de comando para deletar repositório: "rm -rf workspace/"
+
+git init - vai inicializar e possibilitar o git versionar o código a partir da pasta na qual é rodado esse comando.
+
+"ls -a" - Está é uma flag que mostra arquivos ocultos dentro de uma pasta/diretório.
+
+git add - 
+
+git commit - 
+
+
+
